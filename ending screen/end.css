@@ -1,0 +1,56 @@
+body{
+    overflow: hidden;
+}
+.back{
+    z-index: -10;
+    position: absolute;
+    top: -5vh;
+    left: -5vh;
+    width: 230vh;
+    height: 110vh;
+}
+.R{
+    font-family: monospace;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
+.he{
+    font-family: monospace;
+    position: absolute;
+    top: 30%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
+.hi{
+    font-family: monospace;
+    position: absolute;
+    top: 40%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
+.hee{
+    font-family: monospace;
+    position: absolute;
+    top: 50%;
+    left: 20%;
+    color: aliceblue;
+    font-size: 30px;
+}
+.h1{ 
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 50px;
+    border: 0px;
+    border-radius: 0px;
+    background-color: black;
+    width: 200px;
+    height: 100px;
+}

@@ -1,0 +1,77 @@
+body{
+    overflow: hidden;
+
+}
+.back{
+    position: absolute;
+    top: -5vh;
+    left: -5vh;
+    width: 230vh;
+    height: 110vh;
+}
+.sci{
+    position: absolute;
+    top: 26vh;
+    left: 15vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ \(3\).png");
+    background-size: cover;
+}
+.sci1{
+    position: absolute;
+    top: 26vh;
+    left: 65vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ \(4\).png");
+    background-size: cover;
+}
+.sci2{
+    position: absolute;
+    top: 26vh;
+    left: 115vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ \(5\).png");
+    background-size: cover;
+}
+.sci3{
+    position: absolute;
+    top: 56vh;
+    left: 15vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ (6\).png");
+    background-size: cover;
+}
+.sci4{
+    position: absolute;
+    top: 56vh;
+    left: 65vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ \(7\).png");
+    background-size: cover;
+}
+.sci5{
+    position: absolute;
+    top: 56vh;
+    left: 115vh;
+    width: 125px;
+    height: 125px;
+    border: 0ch;
+    background: transparent;
+    background-image: url("/img/MATHS\ \(8\).png");
+    background-size: cover;
+}
